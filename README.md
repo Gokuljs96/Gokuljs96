@@ -19,8 +19,6 @@ Hi there 👋<br>My name is Gokul☺️, and I'm a Front end developer and teste
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Gokuljs96&icon=0&color=10)](https://visitcount.itsvg.in)
